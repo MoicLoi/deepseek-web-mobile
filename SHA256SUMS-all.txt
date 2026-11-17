@@ -1,0 +1,5 @@
+e63fd6ca5901d371f6eded7eba278c558fec96d46eeb7bcf08ba84e441f897ac  deepseek-web-mobile-v1.0.0-source.zip
+6d68d3fd411026d5ad9f7cdb26ccc5172205eb3997da319743ecb4607e09530d  deepseek-web-mobile-v1.0.0-web.zip
+dfe92f574817072fc0fa31f1e142f53b049c3653945a41eed56f675e93c34702  deepseek-web-mobile-v1.0.0-ios.zip
+2314bbde4912022bcbabaecad8f8f7ee50a6a7c1ff5210087b1066bf8ed99b99  deepseek-web-mobile-v1.0.0-android-debug.apk
+780067a7707119e937715b345516e9ea6b165a131522567197f4d94e4e3b42a7  deepseek-web-mobile-v1.0.0-github-release.zip
