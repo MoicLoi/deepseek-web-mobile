@@ -1,4 +1,4 @@
-# deepseek-web-moblie
+# deepseek-web-mobile
 首个可发布版本。项目名：`deepseek-web-mobile`；应用显示名：**DeepSeek Studio**。
 
 ## 版本亮点
