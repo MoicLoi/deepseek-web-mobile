@@ -1,7 +1,7 @@
 # 发布到 GitHub Releases
 
 项目名：`ds-la-reviewer`  
-版本：`v2.0.0`
+版本：`v2.0.1`
 
 ## 1. 生成发布资产
 
@@ -27,11 +27,11 @@ python scripts/package_release.py
 产物在 `release/`：
 
 ```text
-ds-la-reviewer-v2.0.0-github-release.zip   # 完整包（推荐）
-ds-la-reviewer-v2.0.0-source.zip           # 源码
-ds-la-reviewer-v2.0.0-web.zip              # 静态 Web
-ds-la-reviewer-v2.0.0-ios.zip              # iOS 单页版
-ds-la-reviewer-v2.0.0-android-debug.apk    # Android Debug APK
+ds-la-reviewer-v2.0.1-github-release.zip   # 完整包（推荐）
+ds-la-reviewer-v2.0.1-source.zip           # 源码
+ds-la-reviewer-v2.0.1-web.zip              # 静态 Web
+ds-la-reviewer-v2.0.1-ios.zip              # iOS 单页版
+ds-la-reviewer-v2.0.1-android-debug.apk    # Android Debug APK
 SHA256SUMS.txt
 SHA256SUMS-all.txt
 ```
@@ -50,8 +50,8 @@ git push -u origin main
 ## 3. 打标签
 
 ```bash
-git tag -a v2.0.0 -m "ds-la-reviewer v2.0.0"
-git push origin v2.0.0
+git tag -a v2.0.1 -m "ds-la-reviewer v2.0.1"
+git push origin v2.0.1
 ```
 
 ## 4. 创建 Release
@@ -59,18 +59,18 @@ git push origin v2.0.0
 在 GitHub 仓库页面：
 
 1. 打开 **Releases → Draft a new release**
-2. 选择标签 `v2.0.0`
-3. 标题填 `ds-la-reviewer v2.0.0`
-4. 描述复制 [RELEASE_NOTES_v2.0.0.md](RELEASE_NOTES_v2.0.0.md)
+2. 选择标签 `v2.0.1`
+3. 标题填 `ds-la-reviewer v2.0.1`
+4. 描述复制 [RELEASE_NOTES_v2.0.1.md](RELEASE_NOTES_v2.0.1.md)
 5. 上传 `release/` 下的五个发布资产
 6. 发布
 
 如果本机安装了 GitHub CLI：
 
 ```bash
-gh release create v2.0.0 release/* \
-  --title "ds-la-reviewer v2.0.0" \
-  --notes-file docs/RELEASE_NOTES_v2.0.0.md
+gh release create v2.0.1 release/* \
+  --title "ds-la-reviewer v2.0.1" \
+  --notes-file docs/RELEASE_NOTES_v2.0.1.md
 ```
 
 ## 备注

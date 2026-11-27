@@ -1,4 +1,4 @@
-e7e923eee3f839325a7e99b3d0338f4ca88c4368c5757fe3b033493cd4985709  ds-la-reviewer-v2.0.0-source.zip
-9a4335db8d349b7784e30fed56f89225fedd5bcf0d4907a6ffc6e285e695d825  ds-la-reviewer-v2.0.0-web.zip
-dc15b0ae98fd2b360dbfa8e27d4e42824616025afa52d388025fd185102b5f69  ds-la-reviewer-v2.0.0-ios.zip
-aaba14ff626e710cb51732c22bcfecf7e7ada2852989bc6099934ffe04cb4988  ds-la-reviewer-v2.0.0-android-debug.apk
+32b313b7b2b935d74c77a2e38e49657ec1e26bb4f3857771c6fe8187087fae74  ds-la-reviewer-v2.0.1-source.zip
+f8290e965cc81a11e9e3f0910c04a395ab329a11e4487af9fa0fc56afc4c57ae  ds-la-reviewer-v2.0.1-web.zip
+68bb5784b09373bcf8d0a75b33ab0023586fcef0b5c28b37b60bb8f8cbf16c6f  ds-la-reviewer-v2.0.1-ios.zip
+25a9b9dbac1ddf208e5f416372731072d365688db62942a09fb3bca7341e1daa  ds-la-reviewer-v2.0.1-android-debug.apk

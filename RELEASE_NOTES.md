@@ -1,4 +1,4 @@
-# DS-LA-reviewer v2.0.0
+# DS-LA-reviewer v2.0.1
 
 实验动物学导论复习助手。项目名：`ds-la-reviewer`。
 
@@ -8,21 +8,22 @@
 - **本地检索**：正文拆成约 618 个带章节/节标注的片段；提问时按中文 2–4 字组合召回，把命中片段注入系统提示词。
 - **四种复习模式**：查阅、出题、片段练习、模拟练习。
 - **练习第一问**：片段/模拟练习先让用户选题型；默认参考书末例题：6 单选 + 4 判断，共 100 分。若用户第一条消息已说明题型，模型直接开始，不重复提问。
+- **新题库 · 填空题**：新增 10 道填空题（100 分），含标准答案与解析；练习模式可直接选择「填空题（新题库）」。
 - **全模式联网交叉验证**：默认开启 `deepseek_web_search`，教材优先、网络补充，冲突时标注。
 - **完整客户端**：流式回复、思考、来源引用、会话分支、提示词编辑、上下文窗口、历史导入导出。
 - **单轮 / 整段 .md 导出**：通过系统分享面板发送到其他 App；不支持分享时自动下载。
-- **Android / iOS**：Android Debug APK（`applicationId: com.dstuido.lnutcmlai`，versionName 2.0.0）+ iOS 单页版（教材数据内联，单文件约 900KB）。
+- **Android / iOS**：Android Debug APK（`applicationId: com.dstuido.lnutcmlai`，versionName 2.0.1）+ iOS 单页版（教材数据内联，单文件约 900KB）。
 - **技能仓库**：`photo-book-to-ebook` 技能发布在 `MoicLoi/LNUTCM-LabAnimalIntro-Skill`；本软件是其分支产品。
 
 ## 发布资产
 
 | 文件 | 用途 |
 | --- | --- |
-| `ds-la-reviewer-v2.0.0-github-release.zip` | 完整包（Web + iOS + Android APK + 源码） |
-| `ds-la-reviewer-v2.0.0-source.zip` | 干净源码 |
-| `ds-la-reviewer-v2.0.0-web.zip` | 静态 Web |
-| `ds-la-reviewer-v2.0.0-ios.zip` | iOS 单页版 |
-| `ds-la-reviewer-v2.0.0-android-debug.apk` | Android Debug APK |
+| `ds-la-reviewer-v2.0.1-github-release.zip` | 完整包（Web + iOS + Android APK + 源码） |
+| `ds-la-reviewer-v2.0.1-source.zip` | 干净源码 |
+| `ds-la-reviewer-v2.0.1-web.zip` | 静态 Web |
+| `ds-la-reviewer-v2.0.1-ios.zip` | iOS 单页版 |
+| `ds-la-reviewer-v2.0.1-android-debug.apk` | Android Debug APK |
 | `SHA256SUMS.txt` | 资产校验 |
 
 ## 安装
